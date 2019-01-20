@@ -30,7 +30,7 @@ A few questions we asked ourselves before starting the project:
 
 ## Shooting Analysis
 
-![Screenshot](images/LeBron_James.png)
+![Screenshot](james.png)
 
 This plot analyses the shooting style of LeBron James. The blue dots represent all the shots made by LeBron in the 2016-2017 regular season. The red ones indicate the shots missed. The black dots indicate the spots LeBron is most likely to shoot from.
 
